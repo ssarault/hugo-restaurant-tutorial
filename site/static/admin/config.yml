@@ -5,7 +5,7 @@ backend:
   branch: master
 media_folder: src/img/gallery
 collections:
-  name: food
+  - name: food
   label: Food Item
   folder: site/content/food
   create: true
