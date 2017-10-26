@@ -1,6 +1,7 @@
 ---
 title: hero
-image: /src/img/gallery/hero-min.jpg
+image: /img/gallery/hero-min.jpg
 ---
+
 
 
